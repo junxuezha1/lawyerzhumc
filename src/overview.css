@@ -1,0 +1,12 @@
+/* Original window and bay artwork continues behind the five-fold navigation. */
+.overview {
+  background: linear-gradient(105deg, rgba(7,25,43,.74), rgba(7,25,43,.38)), url('/assets/scene-profile-window.jpg') center / cover no-repeat;
+  color: #fff;
+}
+.overview-heading .eyebrow, .overview-heading > p, .overview-note { color: #dae4ec; }
+.folds { background: transparent; box-shadow: 0 24px 60px #06172555; }
+.fold { background: linear-gradient(90deg, #0b2134c9, #14354e85 75%, #0b2134ba); }
+.fold:hover, .fold[aria-expanded="true"] { background: linear-gradient(90deg, #21445fcf, #45677f88); }
+@media(max-width:650px) {
+  .overview { background-image: linear-gradient(110deg, rgba(7,25,43,.76), rgba(7,25,43,.42)), url('/assets/scene-profile-window.jpg'); }
+}

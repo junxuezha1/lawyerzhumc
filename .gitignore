@@ -1,0 +1,10 @@
+node_modules/
+dist/
+release/
+generated/
+release-manifest.json
+.DS_Store
+.env
+.env.*
+*.log
+.wrangler/
