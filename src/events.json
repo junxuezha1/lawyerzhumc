@@ -1,26 +1,61 @@
 [
   {
-    "id": "mongolia-investment-forum-20260916",
+    "id": "mongolia-visit-20260629",
     "category": "cooperation",
     "tags": [
-      "蒙古投资交流论坛",
-      "中国 · 深圳"
+      "蒙古国访问",
+      "蒙古国 · 乌兰巴托"
     ],
-    "date": "2026-09-16",
-    "title": "蒙古投资交流论坛：绿色能源与数字化转型",
-    "summary": "蒙古国拥有丰富自然资源，在数智时代，其地理气候条件也在大规模运算，数据存储等方面带来额外优势。\n\n本次访问活动既是礼尚往来，更是政策稳定信号的持续释放，我们应该看到我们在完整生产链、高端精密制造和基建等方面的优势，把握时代脉搏，发现商机。同时需要注意法律制度的差异，让合适的法律团队做好全方位法律护航，确保行稳致远。",
+    "date": "2026-06-29",
+    "title": "随代表团访问蒙古国并出席蒙古国经济论坛",
+    "summary": "随代表团访问蒙古国，获蒙古国总理接见，并出席在乌兰巴托举行的蒙古国经济论坛。\n\n蒙古国拥有丰富自然资源，在数智时代，其地理气候条件也在大规模运算、数据存储等方面带来额外优势。本次访问活动既是礼尚往来，更是政策稳定信号的持续释放。我们应看到中国在完整生产链、高端精密制造和基础设施建设等方面的优势，把握时代脉搏、发现商机；同时注意法律制度差异，由合适的法律团队提供全方位法律护航，确保行稳致远。",
     "source": null,
-    "cover": "/assets/mongolia-forum-20260916.jpg",
+    "cover": "/assets/mongolia-prime-minister-reception-20260629.jpg",
     "photos": [
       {
-        "src": "/assets/mongolia-forum-20260916.jpg",
-        "alt": "蒙古投资交流论坛会场，主题为绿色能源与数字化转型",
-        "caption": "2026年9月16日 · 深圳 · 蒙古投资交流论坛现场"
+        "src": "/assets/mongolia-prime-minister-reception-20260629.jpg",
+        "alt": "朱满成律师随代表团访问蒙古国期间获蒙古国总理接见",
+        "caption": "随代表团访问蒙古国 · 获蒙古国总理接见"
       },
       {
-        "src": "/assets/mongolia-speech-20260916.jpg",
-        "alt": "蒙古投资交流论坛演讲现场，背景屏幕展示T. DORJKHAND及蒙古国副总理字样",
-        "caption": "蒙古投资交流论坛 · 演讲现场"
+        "src": "/assets/mongolia-economic-forum-interview-20260629.jpg",
+        "alt": "朱满成律师在蒙古国经济论坛接受现场采访",
+        "caption": "蒙古国经济论坛 · 现场采访"
+      },
+      {
+        "src": "/assets/mongolia-economic-forum-session-20260629.jpg",
+        "alt": "蒙古国经济论坛会议现场",
+        "caption": "2026年6月29日 · 乌兰巴托 · 蒙古国经济论坛"
+      },
+      {
+        "src": "/assets/mongolia-economic-forum-zhu-20260629.jpg",
+        "alt": "朱满成律师出席蒙古国经济论坛",
+        "caption": "蒙古国经济论坛 · 朱满成律师参会现场"
+      }
+    ]
+  },
+  {
+    "id": "legislative-exchange-20260429",
+    "category": "cooperation",
+    "tags": [
+      "立法工作交流",
+      "中国 · 深圳"
+    ],
+    "date": "2026-04-29",
+    "title": "粤佛深三地律师协会立法工作交流座谈会",
+    "summary": "参加广东省律师协会、佛山市律师协会、深圳市律师协会立法工作交流座谈会，围绕地方立法机制、工作经验、新兴领域立法探索及跨境法律服务等议题开展交流。",
+    "source": null,
+    "cover": "/assets/legislative-exchange-stage-20260429.jpg",
+    "photos": [
+      {
+        "src": "/assets/legislative-exchange-stage-20260429.jpg",
+        "alt": "广东省、佛山市、深圳市律师协会立法工作交流座谈会会场",
+        "caption": "2026年4月29日 · 深圳 · 立法工作交流座谈会"
+      },
+      {
+        "src": "/assets/legislative-exchange-seat-20260429.jpg",
+        "alt": "朱满成律师参加粤佛深三地律师协会立法工作交流座谈会",
+        "caption": "粤佛深三地律师协会 · 立法工作交流"
       }
     ]
   },
@@ -37,8 +72,18 @@
       "url": "https://mp.weixin.qq.com/s/zF4DtAPKjauQOqdPnxEg5w",
       "label": "阅读活动原文"
     },
-    "cover": "/assets/gallery-csu-speaker.jpg",
+    "cover": "/assets/csu-criminal-defense-lecture-speaker.jpg",
     "photos": [
+      {
+        "src": "/assets/csu-criminal-defense-lecture-speaker.jpg",
+        "alt": "朱满成律师在高校课堂讲授刑事辩护实务",
+        "caption": "中南大学法学院 · 刑事辩护实务分享"
+      },
+      {
+        "src": "/assets/csu-criminal-defense-lecture-classroom.jpg",
+        "alt": "刑事辩护与律师职业主题交流课堂现场",
+        "caption": "中南大学法学院 · 课堂交流现场"
+      },
       {
         "src": "/assets/gallery-csu-speaker.jpg",
         "alt": "朱满成律师在中南大学法学院讲授刑事辩护",
@@ -73,25 +118,26 @@
     "category": "academic",
     "tags": [
       "ICC中文模拟法庭竞赛",
-      "评审"
+      "中国 · 长沙"
     ],
+    "date": "2026-04-11",
     "title": "受邀担任ICC中文模拟法庭竞赛法官",
     "summary": "参与ICC中文模拟法庭竞赛评审，记录竞赛现场及评审与参赛人员合影。",
     "source": {
       "url": "https://mp.weixin.qq.com/s/ly4FLz7DyZUPzyodyPODvA",
       "label": "阅读活动原文"
     },
-    "cover": "/assets/gallery-icc-portrait.jpg",
+    "cover": "/assets/icc-judges-group-20260411.jpg",
     "photos": [
       {
-        "src": "/assets/gallery-icc-portrait.jpg",
-        "alt": "朱满成律师参加ICC中文模拟法庭竞赛",
-        "caption": "ICC中文模拟法庭竞赛 · 评审现场"
+        "src": "/assets/icc-judges-group-20260411.jpg",
+        "alt": "朱满成律师身着法袍担任ICC中文模拟法庭竞赛法官并与参赛人员合影",
+        "caption": "ICC中文模拟法庭竞赛 · 法官与参赛人员合影"
       },
       {
-        "src": "/assets/gallery-icc-group.png",
-        "alt": "ICC中文模拟法庭竞赛法官与参赛人员合影",
-        "caption": "ICC中文模拟法庭竞赛 · 评审与参赛人员合影"
+        "src": "/assets/icc-moot-court-portrait-20260411.jpg",
+        "alt": "朱满成律师在2026年国际刑事法院中文模拟法庭竞赛现场",
+        "caption": "2026年4月11日至12日 · 长沙 · ICC中文模拟法庭竞赛"
       }
     ]
   },
@@ -137,8 +183,13 @@
       "url": "https://mp.weixin.qq.com/s/ZVdbo3_bcDiarSByZ6Eykw",
       "label": "阅读项目原文"
     },
-    "cover": "/assets/gallery-police-class.jpg",
+    "cover": "/assets/shenzhen-junior-police-camp-portrait.jpg",
     "photos": [
+      {
+        "src": "/assets/shenzhen-junior-police-camp-portrait.jpg",
+        "alt": "朱满成律师在深圳少年警营活动中心",
+        "caption": "深圳少年警营活动中心 · 朱满成律师"
+      },
       {
         "src": "/assets/gallery-police-class.jpg",
         "alt": "朱满成律师在深圳少年警营开展法治课堂",
